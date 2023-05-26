@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T17:31:40 IST" name="Default suite" finished-at="2023-05-26T17:32:01 IST" duration-ms="20826">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T17:31:40 IST" name="Default test" finished-at="2023-05-26T17:32:01 IST" duration-ms="20826">
+      <class name="com.MavenTest.AlertsChromeTest">
+        <test-method signature="Popup()[pri:0, instance:com.MavenTest.AlertsChromeTest@783a467b]" started-at="2023-05-26T17:31:40 IST" name="Popup" finished-at="2023-05-26T17:32:01 IST" duration-ms="20757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Popup -->
+      </class> <!-- com.MavenTest.AlertsChromeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
